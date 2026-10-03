@@ -7,13 +7,13 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/vishesh-modanwal">
     <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
+  <a href="https://www.linkedin.com/in/www.linkedin.com/in/vishesh-kr-modanwal-b7363a31b/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:YOUR_EMAIL@example.com">
+  <a href="mailto:visheshmodanwal280@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail" />
   </a>
 </p>
